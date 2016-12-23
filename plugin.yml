@@ -1,0 +1,10 @@
+ name: tpLogin
+ version: 2.3.3
+ description: 强制登入地点-tpLogin线程崩溃修复版
+ author: iNanno和yueyue
+ main: cn.yue.tpLogin
+ database: false
+ commands:
+   tplogin:
+     description: 输入/tplogin查看帮助
+     aliases: [tplogin]
